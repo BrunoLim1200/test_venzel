@@ -1,16 +1,26 @@
-# test_venzel
+# Venzel TodoList
 
-A new Flutter project.
+Aplicativo de organização de tarefas.
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+Um aplicativo de tarefas, no qual consigo editar, excluir, visualizar e definir categorias para as minhas tarefas. Foi feito 100% utilizando recursos do Flutter e Dart, sendo o banco de dados local utilizando SQLite.
 
-A few resources to get you started if this is your first Flutter project:
+## Instalação e Execução
+### iOS
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Use os comandos  `flutter build`  e`flutter run`  na pasta da aplicação para dar build/run ou você pode abrir:  `ios/Runner.xcworkspace`  no Xcode e dar build/run no projeto normalmente.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Android
+
+Use os comandos  `flutter build`  e`flutter run`  na pasta da aplicação para dar build/run ou para iniciar com Android Studio, abra a pasta  `android`  no Android Studio e inicia o projeto normalmente.
+
+## Futuras atualizações
+Ainda quero incluir no aplicativo:
+
+- 100% responsivo
+- Opção de concluir tarefas
+- Registro e login de usuários
+
+## Aprendizados
+Foi muito importante desenvolver esse app pois tive contato e trabalhei com diversos Widgets. Também foi legal entender o quão simples o Flutter é pra fazer muitas coisas que parecem complicadas.
